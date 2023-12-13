@@ -5,7 +5,11 @@ import entities.Sale;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.*;
+import java.util.HashSet;
+import java.util.Locale;
+import java.util.Scanner;
+import java.util.Set;
+
 
 public class Program {
     public static void main(String[] args) {
